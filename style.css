@@ -121,7 +121,6 @@ nav ul li::after {
     margin-bottom: 1em;
     border-radius: 0.5em;
     transition: all 1s linear;
-    width: 121px;
 }
 
 .dropdown > * {
